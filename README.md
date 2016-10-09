@@ -1,3 +1,3 @@
 #Ejercicios
 
->Conceptoa Básicos de Python.
+>Conceptos Básicos de Python.
