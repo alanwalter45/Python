@@ -1,11 +1,11 @@
-listaComentarios=[]
+lista_comentarios=[]
 
 def agregarComentario(comentario):
-    listaComentarios.append(comentario)
+    lista_comentarios.append(comentario)
 
 
 if __name__=="__main__":
-    comentario=input("Como se sientes?")
+    comentario=input("Como te sientes?")
     agregarComentario(comentario)
     recibirNotificaciones=input("Desea recibir notificaciones?")
     
