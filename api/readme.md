@@ -1,0 +1,5 @@
+# Comandos
+
+```bash
+$ flask run
+```
