@@ -1,6 +1,6 @@
-list_comment = ["Comentario 1","Comentario 2","Comentario 3","Comentario 4"]
+list_comment = ["Comentario 1", "Comentario 2", "Comentario 3", "Comentario 4"]
 
-comment_letter="test demo"
+comment_letter = "test demo"
 
 for comment in list_comment:
     print('> ' + comment)
