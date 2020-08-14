@@ -1,8 +1,8 @@
 # Conceptos básicos de Python.
 
-descargar python desde http://python.org
+Descargar python desde http://python.org
 
-## Intalación en linux
+## Instalación en linux
 
 descomprimir el archivo python3.x.tar.xz
 
